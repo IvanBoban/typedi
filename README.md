@@ -1,1 +1,1 @@
-# typedi
+# typedi learning repo
